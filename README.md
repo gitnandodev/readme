@@ -23,6 +23,4 @@
 </p>
 <hr></hr>
 <div></div>
-<hr></hr>
-<div></div>
 🪄| Enjoy my GitHub ;)
